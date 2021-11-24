@@ -1,0 +1,400 @@
+index,importance,sport,frequency,how_alone,how_small_groups,how_big_groups,independence,interdependence,sex,age,education
+134,7,Martial Arts Tricking,5,False,True,False,4,5.83333333333333,m,26,7
+135,7,Martial Arts Tricking,5,True,True,True,5.41666666666667,6.58333333333333,m,25,5
+137,7,Basketball,4,True,True,True,4.16666666666667,5.91666666666667,m,27,8
+139,7,Parkour,7,True,True,False,4.66666666666667,5.58333333333333,m,18,4
+140,7,Parkour,6,False,True,False,4.83333333333333,5.83333333333333,m,19,7
+142,7,Freerunning,3,False,True,False,2.75,2.08333333333333,m,18,9
+143,7,Parkour,6,False,False,True,5.08333333333333,5.91666666666667,m,16,9
+144,7,Soccer,5,True,False,False,4.91666666666667,6.33333333333333,m,25,6
+150,7,Dance,8,True,True,True,3.16666666666667,6.5,m,17,4
+151,7,Parkour,5,True,False,False,4.58333333333333,5,m,17,9
+154,7,Freerunning,7,False,True,True,5.08333333333333,5.58333333333333,m,26,8
+155,6,Parkour,5,False,True,False,4.66666666666667,6.16666666666667,f,20,7
+158,7,Parkour,6,True,True,True,3.83333333333333,5.58333333333333,m,26,8
+160,6,Yoga,3,False,True,False,4.08333333333333,5.58333333333333,f,24,5
+161,6,Parkour,5,True,True,True,3.5,4.75,m,17,9
+162,7,Parkour,4,False,True,False,5.5,5.75,m,16,4
+164,7,Parkour,5,False,True,True,4.33333333333333,4.83333333333333,m,20,7
+171,5,Freerunning,4,False,True,False,5.08333333333333,5.08333333333333,m,17,4
+172,7,Parkour,4,False,True,False,5.58333333333333,5.58333333333333,m,24,8
+173,7,Parkour,6,False,True,False,4.16666666666667,5.33333333333333,m,21,7
+175,5,Football,4,True,True,False,4.75,5.75,m,18,3
+176,7,Parkour,8,False,True,False,4.91666666666667,6,m,14,9
+177,7,Parkour,8,False,True,False,4.5,5.75,m,23,7
+178,6,Parkour,4,False,True,False,4.91666666666667,4.83333333333333,m,15,9
+180,7,Parkour,6,False,True,False,5.08333333333333,5,m,18,7
+182,7,Parkour,4,False,True,False,5.08333333333333,5.66666666666667,m,14,9
+183,7,Parkour,3,True,True,False,5.66666666666667,5,m,17,9
+184,6,Parkour,4,False,True,False,4.41666666666667,5.25,m,23,7
+188,7,Freerunning,7,True,True,False,5,6.25,m,16,4
+189,6,Parkour,4,False,False,True,4.16666666666667,5.41666666666667,m,16,9
+191,7,Parkour,5,True,True,False,4.5,5.66666666666667,m,28,8
+192,7,Parkour,5,False,True,True,4.16666666666667,5.66666666666667,m,21,7
+194,5,Dance,1,False,False,False,4.25,3.58333333333333,f,35,8
+196,6,Parkour,5,False,True,False,5.16666666666667,5.5,m,19,7
+199,7,Parkour,6,False,True,False,4.33333333333333,5.08333333333333,m,23,8
+200,7,Parkour,5,False,True,False,4.16666666666667,5,m,17,9
+202,7,Parkour,4,False,True,False,5,4.66666666666667,m,22,5
+203,7,Parkour,4,False,True,False,4.41666666666667,4.41666666666667,m,16,9
+205,7,Martial Arts Tricking,8,True,False,True,5.33333333333333,5.83333333333333,m,24,7
+206,6,Parkour,4,False,True,False,5.25,5.83333333333333,m,15,9
+209,6,Freerunning,3,False,True,True,3.58333333333333,5.33333333333333,m,18,9
+213,6,Parkour,5,False,True,False,3.33333333333333,5.91666666666667,m,24,8
+215,7,Parkour,6,True,True,False,6.5,6.91666666666667,m,17,7
+216,7,Martial Arts Tricking,8,True,True,True,4.58333333333333,5.33333333333333,m,24,1
+219,6,Parkour,5,False,True,False,4.33333333333333,5.41666666666667,f,20,7
+222,7,Parkour,6,False,False,False,5.25,6.41666666666667,f,17,4
+223,7,Parkour,5,False,True,False,4.66666666666667,5.83333333333333,f,19,4
+224,7,Parkour,6,True,True,False,4.66666666666667,5.16666666666667,m,24,8
+225,7,Parkour,7,False,True,False,4.33333333333333,4.83333333333333,m,22,7
+227,7,Parkour,6,True,True,True,4.33333333333333,5.16666666666667,m,21,7
+230,6,Swimming,3,False,True,False,4.41666666666667,5,m,25,8
+231,7,Track and Field,8,False,True,False,4.16666666666667,5.41666666666667,m,24,7
+232,6,Handball,4,False,True,True,4.41666666666667,4,m,24,7
+233,6,Track and Field,5,True,True,False,5,4.25,m,21,7
+234,7,Tennis,8,False,True,True,4.83333333333333,6.08333333333333,m,23,7
+235,6,Fitness Sport,5,True,True,False,4.16666666666667,4.83333333333333,f,23,7
+236,7,Basketball,5,True,False,False,4.91666666666667,5.33333333333333,f,22,7
+237,6,Handball,6,False,True,True,4.66666666666667,4.83333333333333,m,28,7
+238,7,Handball,6,False,True,True,5,6.08333333333333,m,22,7
+239,7,Gymnastics,5,True,True,False,4.41666666666667,5.5,f,24,7
+242,7,Track and Field,5,False,True,False,4.5,6.08333333333333,f,22,7
+243,7,Snowboarding,6,False,True,True,4.41666666666667,5.66666666666667,m,22,7
+246,7,Soccer,7,False,False,False,5.08333333333333,4.25,m,24,7
+248,7,Roller Blading,8,True,True,False,4.83333333333333,4.16666666666667,m,21,7
+249,6,Gymnastics,4,False,False,False,4.83333333333333,5.75,f,16,9
+250,6,Gymnastics,4,False,True,False,5.5,4,f,16,9
+251,6,Soccer,6,False,True,True,5.08333333333333,4.91666666666667,m,26,8
+252,7,Handball,7,True,False,False,4.08333333333333,4.41666666666667,f,25,8
+253,7,Tennis,7,False,True,True,4.33333333333333,6.25,m,23,7
+254,6,Gymnastics,4,False,True,False,5,4,f,22,8
+257,7,Hockey,5,False,True,False,4.75,5.41666666666667,m,24,7
+258,7,Volleyball,7,False,False,False,5.16666666666667,5.41666666666667,m,23,7
+259,6,Handball,4,False,False,False,5.33333333333333,4.91666666666667,m,23,6
+260,7,Volleyball,8,False,False,True,4.08333333333333,5.41666666666667,f,21,6
+263,6,Gymnastics,4,False,True,False,5.91666666666667,5.33333333333333,f,17,9
+267,7,Handball,4,False,False,True,5.58333333333333,4.58333333333333,m,26,8
+271,7,Cycling,7,True,False,False,5.16666666666667,5,f,22,7
+273,6,Badminton,3,False,True,False,4.83333333333333,4.5,m,23,7
+274,6,Skiing,3,True,True,False,4,5.66666666666667,f,23,8
+275,7,Volleyball,6,True,True,False,3.75,4.33333333333333,f,19,7
+276,6,Soccer,4,False,True,False,4.75,3.75,m,25,7
+277,7,Parkour,5,False,True,True,4.91666666666667,5.75,m,12,9
+278,7,Track and Field,8,False,True,False,4,6,f,26,7
+279,7,Freerunning,7,True,True,False,3,5.25,m,22,7
+281,7,Aerobics,6,False,True,False,4.83333333333333,4.41666666666667,f,25,8
+284,7,Handball,5,False,True,True,4.16666666666667,4.08333333333333,m,23,7
+285,7,Track and Field,6,False,True,True,5,3.91666666666667,f,22,7
+286,7,Soccer,8,False,False,True,4.66666666666667,5.58333333333333,m,23,7
+288,6,Gymnastics,2,False,True,False,4.83333333333333,4.08333333333333,f,23,5
+290,7,Swimming,6,True,True,False,6.41666666666667,6.25,m,27,8
+291,6,Track and Field,3,True,True,False,5,5.08333333333333,f,23,7
+292,6,Track and Field,7,False,True,False,4.91666666666667,5.66666666666667,f,23,7
+293,7,Wing Chun,5,False,True,False,4.41666666666667,6.91666666666667,m,26,5
+295,6,Karate,5,True,False,False,4.58333333333333,3.66666666666667,m,22,7
+299,7,Soccer,5,True,True,False,4.83333333333333,5.41666666666667,m,25,7
+300,7,Wing Chun,5,False,True,False,3.75,6.5,m,30,7
+303,7,Combat Sport,4,False,True,False,2.5,6.75,f,30,8
+304,6,Gymnastics,4,False,False,False,4,4.66666666666667,f,21,7
+305,6,Boxing,3,False,True,False,3.5,4.41666666666667,m,33,7
+306,7,Combat Sport,8,False,False,False,2.66666666666667,5.41666666666667,m,16,9
+309,6,Table Tennis,5,False,True,False,4.83333333333333,5.41666666666667,m,26,8
+311,6,Volleyball,6,False,True,False,3.75,5.83333333333333,f,22,7
+312,7,Tennis,8,False,True,True,3.41666666666667,5.83333333333333,m,18,7
+313,5,Kapap,4,False,True,False,4.58333333333333,4.16666666666667,m,27,6
+315,6,MMA,4,False,True,False,5.08333333333333,4.33333333333333,m,30,7
+317,7,Wing Chun,5,True,True,False,3.41666666666667,5.83333333333333,f,41,8
+323,7,Judo,8,True,True,False,3.16666666666667,4,m,29,6
+327,6,Fencing,5,False,True,False,3.5,4.5,f,39,8
+328,7,Gymnastics,4,False,True,False,4.58333333333333,4.83333333333333,f,18,7
+331,6,Gymnastics,5,False,True,True,5.08333333333333,5.41666666666667,f,17,9
+332,7,Capoeira,6,False,False,True,5,4.66666666666667,f,29,8
+333,7,Soccer,5,False,True,False,4.75,4.83333333333333,m,23,7
+336,7,Handball,4,False,True,False,4.16666666666667,5,f,22,7
+337,6,MMA,3,False,True,False,4.25,5.58333333333333,m,19,7
+339,7,Mountainbiking,5,False,True,False,4.41666666666667,5.16666666666667,m,36,8
+340,7,Karate,7,False,True,False,4.75,5.83333333333333,m,15,9
+343,5,Alpha Combat System,4,False,True,False,5.75,5.41666666666667,m,36,6
+345,5,Equestrianism,6,False,True,False,5.41666666666667,4.41666666666667,f,22,7
+346,7,Gymnastics,4,False,True,False,4.83333333333333,4.66666666666667,f,16,4
+347,7,Taekwondo,7,False,True,False,4.75,5.58333333333333,m,23,7
+350,7,Karate,4,False,True,False,4.08333333333333,5.41666666666667,f,38,8
+352,7,Gymnastics,3,False,True,False,4.75,3.91666666666667,f,19,4
+353,6,Basketball,4,False,False,False,4.08333333333333,4.83333333333333,m,23,7
+355,7,Parkour,4,False,True,False,4.91666666666667,4.91666666666667,m,16,9
+357,7,Power Sport,7,True,True,False,3,3.25,m,24,7
+358,6,Kickboxing,5,False,True,False,4.5,4.91666666666667,m,17,3
+359,7,Power Sport,8,True,False,False,2.5,6.16666666666667,m,22,7
+360,6,Soccer,6,True,True,True,4.83333333333333,4.66666666666667,m,21,7
+361,6,Fencing,3,False,True,False,4.58333333333333,5.75,m,29,5
+364,7,Power Sport,4,True,True,False,4.91666666666667,5.41666666666667,m,22,6
+366,5,Soccer,3,False,True,False,4.16666666666667,4,m,24,7
+368,7,Basketball,6,True,True,True,4.91666666666667,5.75,m,28,8
+369,7,Judo,6,False,True,False,4,3.75,m,25,7
+373,6,Ninjutsu,6,False,True,False,4.58333333333333,4,m,24,7
+375,6,Ninjutsu,4,False,True,False,3.41666666666667,4.66666666666667,m,31,5
+376,7,Escrima,6,False,True,False,4.5,4.66666666666667,m,42,7
+377,7,Muay Thai,8,True,False,False,4.33333333333333,6.16666666666667,m,22,7
+380,7,Combat Sport,5,False,False,False,2.83333333333333,5.08333333333333,m,18,7
+386,7,Soccer,5,False,False,False,4.58333333333333,5.33333333333333,m,22,7
+389,5,Dance,4,True,True,True,4.75,3.16666666666667,f,27,7
+392,7,Track and Field,4,False,True,False,4.41666666666667,5.83333333333333,f,24,8
+393,7,MMA,7,False,True,False,3.75,5.33333333333333,m,30,8
+394,7,Bodybuilding,7,True,False,False,4.08333333333333,5.16666666666667,m,51,5
+395,7,Muay Thai,6,False,True,False,4,5.5,m,29,8
+397,7,Combat Sport,4,True,True,False,3.83333333333333,5.25,m,24,7
+398,7,Parkour,7,False,True,False,4,4.41666666666667,m,15,9
+402,7,BJJ,6,False,True,False,5.75,5,m,20,7
+404,6,Kung Fu,5,True,True,False,3.58333333333333,5.41666666666667,m,18,7
+405,7,Mountainbiking,7,True,True,False,5.16666666666667,5.75,f,20,7
+406,7,Jeet kune do,6,True,True,False,4.75,5.66666666666667,m,26,9
+407,7,Gymnastics,6,False,True,False,4.83333333333333,5.58333333333333,f,24,9
+408,7,Parkour,6,False,True,False,4.91666666666667,6.33333333333333,m,18,4
+409,5,Wing Chun,4,False,False,False,3.5,4.41666666666667,m,32,6
+412,6,Swimming,7,False,True,False,4.91666666666667,5.75,m,26,7
+413,7,Parkour,4,True,False,False,5.66666666666667,5.83333333333333,m,22,7
+416,7,Basketball,4,False,True,True,4.83333333333333,4.58333333333333,f,23,7
+417,7,Basketball,7,True,False,False,5.08333333333333,5.08333333333333,f,15,9
+421,7,BJJ,6,False,True,False,4.16666666666667,5.25,m,30,8
+423,7,Gymnastics,6,False,True,False,4.16666666666667,4.58333333333333,m,21,7
+425,7,Basketball,5,False,False,True,3.75,2.25,f,13,9
+428,7,Soccer,8,True,True,False,3.58333333333333,4.33333333333333,f,25,8
+430,7,Calisthenics,8,True,True,False,4.91666666666667,5.75,m,20,7
+431,7,Parkour,7,False,True,False,4.25,5.16666666666667,f,21,7
+439,7,Combat Sport,5,False,True,False,4.83333333333333,4,f,24,7
+440,7,Kenjutsu,5,True,True,False,4.83333333333333,6.25,f,21,7
+442,7,Swimming,8,False,True,False,5.25,5.33333333333333,m,24,8
+443,7,Track and Field,8,True,False,False,4.16666666666667,5.75,f,47,7
+445,7,Parkour,5,False,True,False,4.41666666666667,4.25,f,19,6
+447,6,Gymnastics,4,False,True,False,4.33333333333333,5.25,m,29,8
+451,7,Gymnastics,5,False,True,False,3.75,5.33333333333333,m,19,7
+454,7,Track and Field,5,False,True,False,5.25,5.33333333333333,f,19,7
+456,7,Handball,6,True,True,False,5,5.5,m,21,7
+459,7,Track and Field,4,True,True,False,4.83333333333333,3.66666666666667,f,22,7
+460,7,Gymnastics,5,False,True,True,4.33333333333333,4.66666666666667,m,23,7
+461,5,Gymnastics,2,False,True,False,5.25,4.66666666666667,f,18,4
+464,6,Soccer,6,True,False,False,4.83333333333333,5.83333333333333,m,25,7
+466,7,Badminton,8,False,True,False,4.75,4.66666666666667,f,25,8
+467,7,Handball,5,False,True,False,4.83333333333333,4.08333333333333,f,21,7
+469,7,Parkour,5,True,False,False,5.16666666666667,4.66666666666667,m,18,4
+471,7,Parkour,7,False,True,False,5.08333333333333,5.58333333333333,m,24,7
+472,6,Gymnastics,3,True,True,False,4.33333333333333,4.83333333333333,f,25,9
+474,7,Soccer,6,False,False,False,3.75,4.33333333333333,m,22,7
+475,7,Handball,6,False,True,True,4.75,4.83333333333333,m,22,7
+476,6,Badminton,4,False,False,True,5.16666666666667,4,f,23,7
+477,7,Karate,5,False,False,True,2.41666666666667,5.75,m,23,8
+479,5,Basketball,3,False,True,False,4.83333333333333,4.08333333333333,m,17,9
+480,7,Handball,8,False,True,True,4.5,5.66666666666667,m,16,9
+487,5,Running,4,True,False,False,2.83333333333333,5,m,70,4
+493,6,Lacrosse,5,False,True,True,5.75,5.16666666666667,m,25,8
+496,7,Basketball,5,False,True,False,4.41666666666667,5.41666666666667,m,20,7
+499,6,Handball,5,False,False,False,4.75,4.33333333333333,m,21,7
+501,7,Handball,6,True,True,True,4.83333333333333,3.33333333333333,f,23,8
+502,6,Basketball,3,False,False,False,4.58333333333333,4.16666666666667,m,39,5
+507,5,Running,4,True,True,False,4.08333333333333,4.66666666666667,m,37,8
+508,7,Basketball,5,True,True,True,5.41666666666667,3.83333333333333,m,22,7
+511,6,Running,5,True,False,False,3.58333333333333,4.83333333333333,m,50,5
+513,7,Soccer,5,False,False,False,4.16666666666667,4.66666666666667,m,22,7
+527,6,Bodybuilding,5,False,True,False,5.33333333333333,5.16666666666667,m,18,8
+529,7,Power Sport,5,False,False,False,4.5,5,m,21,7
+533,7,Volleyball,3,False,True,True,4.16666666666667,4.83333333333333,m,21,7
+538,7,Power Sport,7,True,False,False,4.25,5.08333333333333,m,23,6
+540,5,MMA,5,True,True,False,3.41666666666667,3.91666666666667,m,20,7
+548,7,Bodybuilding,5,True,False,False,3.41666666666667,5.83333333333333,f,40,5
+550,7,Running,6,True,False,False,3.25,5.75,f,46,8
+552,7,Fitness Sport,5,True,False,False,3.25,5.08333333333333,m,42,5
+553,6,Chinese Martial Arts,4,True,True,False,3.33333333333333,6.33333333333333,m,44,7
+557,7,Track and Field,8,False,True,False,3.66666666666667,4.66666666666667,m,22,7
+560,7,Basketball,8,False,True,True,5.58333333333333,5.16666666666667,f,20,7
+561,5,Basketball,5,True,True,False,4.83333333333333,5.91666666666667,m,18,9
+562,6,Bodybuilding,6,True,False,False,5.16666666666667,5.66666666666667,f,31,5
+563,7,Soccer,7,False,False,False,4.08333333333333,3.91666666666667,m,20,7
+565,6,Soccer,3,False,True,False,4,3.83333333333333,m,22,7
+577,7,Soccer,5,False,True,False,4.83333333333333,4.75,f,20,7
+578,7,Gymnastics,6,False,True,False,5.41666666666667,5.58333333333333,f,19,6
+579,7,Bodybuilding,7,False,False,False,3.5,5.58333333333333,m,17,9
+580,6,Soccer,4,False,False,True,4.33333333333333,4.83333333333333,m,19,8
+582,7,Track and Field,6,False,True,False,5.66666666666667,6.58333333333333,m,21,7
+584,6,Soccer,5,False,False,True,4.5,4.33333333333333,m,20,5
+588,7,Handball,4,False,False,True,2.75,4.66666666666667,f,29,5
+596,7,Swimming,4,False,True,False,4.25,5.75,m,23,7
+600,7,Soccer,4,False,True,True,5,4.08333333333333,m,24,8
+603,5,Handball,3,False,True,True,4.91666666666667,5.08333333333333,m,43,8
+605,7,Handball,4,False,False,True,4.91666666666667,6.08333333333333,m,25,7
+611,7,Handball,4,False,False,False,4.91666666666667,5.58333333333333,m,35,7
+613,7,Basketball,4,True,False,False,5,5.16666666666667,m,18,4
+617,7,Bodybuilding,6,True,False,False,5.41666666666667,4,m,29,7
+618,5,Fitness Sport,2,False,True,False,5.08333333333333,4.41666666666667,f,26,6
+621,6,Soccer,4,False,False,True,3.41666666666667,3.25,m,25,5
+622,6,Soccer,5,True,False,False,4.16666666666667,4.91666666666667,m,22,8
+624,5,Handball,2,False,False,True,4.58333333333333,4,m,42,8
+626,7,Basketball,7,False,False,False,5.41666666666667,4.91666666666667,m,23,7
+627,6,Fitness Sport,4,False,False,False,4.91666666666667,4.5,f,22,4
+628,6,BJJ,5,True,False,True,3,4.58333333333333,m,21,8
+630,4,Cycling,1,True,False,False,3.91666666666667,3.83333333333333,m,53,8
+631,5,Gymnastics,3,False,True,False,5,5.25,f,29,9
+634,7,Soccer,5,False,True,True,5,5.25,m,26,5
+635,7,Volleyball,4,False,True,False,4.41666666666667,5.33333333333333,f,18,7
+638,6,Gymnastics,4,True,False,True,4,4.66666666666667,f,33,8
+639,7,Soccer,5,True,True,True,4.75,3.66666666666667,m,23,7
+641,5,Dance,8,False,True,False,5.25,5.25,f,56,8
+642,7,Basketball,6,False,True,False,5.91666666666667,5.5,f,14,9
+643,6,Soccer,5,False,False,True,5.83333333333333,4.91666666666667,f,24,8
+645,7,Running,5,False,False,False,4.16666666666667,4.91666666666667,m,34,5
+650,6,Soccer,6,False,True,False,4.41666666666667,4.66666666666667,m,21,7
+653,5,Running,3,True,True,False,4.91666666666667,5.08333333333333,m,56,4
+662,7,Gymnastics,3,False,True,False,5.16666666666667,5.41666666666667,f,27,8
+664,7,Gymnastics,4,True,True,False,3.5,6.25,f,24,8
+669,6,Basketball,4,False,False,True,4.33333333333333,5.5,m,21,8
+670,5,Soccer,4,True,False,True,3.33333333333333,4.41666666666667,m,25,8
+671,7,Soccer,5,False,True,False,5.33333333333333,4.33333333333333,f,23,7
+672,7,Cycling,7,True,True,False,4.33333333333333,5.08333333333333,m,26,7
+673,6,Track and Field,4,False,True,False,5.5,6,m,21,7
+675,7,Basketball,6,False,True,False,4,4.66666666666667,m,25,7
+677,6,Judo,4,True,True,True,5.58333333333333,4.58333333333333,f,23,7
+678,7,Soccer,4,False,True,True,4.66666666666667,5.33333333333333,m,26,8
+679,7,Soccer,4,False,False,False,4.58333333333333,4.83333333333333,m,26,8
+681,6,Handball,4,False,True,False,4.08333333333333,4.66666666666667,m,25,8
+683,7,Ice-Skating,6,False,True,False,4.33333333333333,5.33333333333333,f,23,8
+685,7,Dance,8,False,True,False,4.5,6.08333333333333,f,27,8
+688,7,Triathlon,7,True,True,False,3.41666666666667,5.66666666666667,m,23,7
+690,7,Soccer,6,True,True,True,5.33333333333333,5.91666666666667,m,25,6
+691,2,Parkour,5,True,True,False,4.25,4.83333333333333,m,21,7
+692,7,Soccer,4,False,False,True,4.25,5.33333333333333,f,20,7
+695,7,Soccer,4,True,True,True,5.41666666666667,4.58333333333333,m,25,8
+696,7,Track and Field,7,False,True,False,4.91666666666667,4.5,f,20,7
+698,7,Climbing,6,False,True,False,5.08333333333333,5.5,m,21,7
+699,7,Football,6,False,True,True,6,6,m,25,7
+701,7,Basketball,6,False,True,True,4.08333333333333,5.25,m,22,7
+703,7,Volleyball,4,False,False,True,5.08333333333333,5.58333333333333,f,24,9
+704,7,Soccer,7,True,True,False,3.08333333333333,4.91666666666667,m,20,7
+705,6,Table Tennis,4,False,True,False,4.58333333333333,3.66666666666667,m,27,9
+706,7,Track and Field,4,False,True,False,4.25,5.33333333333333,m,24,7
+707,7,Soccer,7,False,False,True,5,4.5,m,23,7
+709,7,Soccer,5,False,True,True,4.66666666666667,5.75,m,23,8
+710,7,Track and Field,7,False,True,False,4.91666666666667,6,f,19,7
+715,7,Soccer,7,False,True,False,4.5,4.5,m,25,7
+716,7,Swimming,4,False,True,False,5.16666666666667,5.25,m,24,8
+717,6,Slacklining,5,False,True,False,4.58333333333333,4.58333333333333,m,22,7
+719,6,Handball,6,False,True,True,4.25,5.25,m,24,8
+720,7,Tennis,5,False,False,False,4.41666666666667,5.91666666666667,m,25,9
+721,7,Equestrianism,7,True,True,False,4.08333333333333,3.58333333333333,f,36,8
+723,7,Handball,4,False,True,True,5,4.66666666666667,m,21,7
+724,7,Soccer,6,False,False,True,4,5.5,m,26,7
+725,7,Soccer,5,False,False,False,4.5,4.08333333333333,f,23,7
+726,7,Handball,8,True,True,True,4,5.25,m,23,8
+728,7,Equestrianism,7,False,True,False,4,5.91666666666667,f,19,7
+730,7,Basketball,4,False,True,True,3.33333333333333,5.5,m,28,8
+731,7,Volleyball,5,False,False,False,4,5.16666666666667,f,24,7
+733,7,Track and Field,5,False,True,False,4.75,4.58333333333333,f,19,7
+734,6,Handball,4,False,True,False,5,4.08333333333333,f,20,7
+735,7,Handball,6,False,True,False,3.41666666666667,4,f,21,7
+736,6,Gymnastics,4,False,True,False,5.66666666666667,4.25,f,21,7
+737,7,Rowing,3,False,True,True,4.83333333333333,4.83333333333333,m,24,8
+739,6,Track and Field,4,False,True,False,3.66666666666667,4.41666666666667,f,22,8
+740,7,Tennis,4,False,True,True,5.25,4.08333333333333,f,24,7
+742,7,Soccer,4,False,True,False,4.75,4.58333333333333,m,27,9
+745,7,Dance,4,True,True,True,5.33333333333333,5,f,24,8
+746,7,Soccer,4,False,False,False,5.5,5.16666666666667,f,22,7
+747,6,Gymnastics,5,False,True,False,4.08333333333333,6,f,22,8
+748,7,Soccer,5,False,False,False,5.83333333333333,6.16666666666667,m,20,7
+750,7,Soccer,5,False,True,False,5,6,m,20,7
+752,7,Hockey,6,True,True,True,4.83333333333333,5,f,25,7
+755,6,Soccer,4,False,True,False,4.75,5.33333333333333,f,24,8
+756,7,Soccer,7,False,False,False,5.5,4.25,m,20,7
+757,7,Gymnastics,4,False,True,False,4.91666666666667,4.66666666666667,f,23,7
+758,7,Rowing,8,True,True,False,4.91666666666667,4.75,f,21,7
+759,7,Hockey,7,True,False,False,5.5,5.08333333333333,f,21,7
+760,6,Handball,4,False,True,True,4.58333333333333,4.16666666666667,f,23,8
+762,6,Rugby,6,True,True,False,5.41666666666667,5.41666666666667,f,24,7
+764,7,Beach Volleyball,4,False,True,True,3.83333333333333,5.58333333333333,m,27,8
+766,7,Handball,6,False,True,False,6.08333333333333,3.75,f,24,8
+768,7,Volleyball,7,False,True,False,4.66666666666667,4.91666666666667,m,20,7
+769,7,Handball,7,False,True,True,5.41666666666667,5.91666666666667,m,21,7
+771,7,Triathlon,6,True,True,False,4,4.75,m,26,8
+773,7,Gymnastics,5,False,True,False,5,5.5,f,24,6
+776,7,Soccer,8,False,True,True,5.75,5.16666666666667,f,19,7
+781,7,Handball,6,False,False,True,5.75,5.91666666666667,m,22,7
+782,7,Fitness Sport,7,False,True,False,5.5,6.25,f,23,9
+783,7,Track and Field,4,False,True,True,4.66666666666667,4.83333333333333,f,22,7
+784,7,Dance,4,False,True,True,4.91666666666667,5,f,23,7
+785,7,Basketball,5,False,True,False,4.41666666666667,3.75,f,21,7
+786,7,Equestrianism,7,True,True,False,4.33333333333333,5.16666666666667,f,19,7
+787,7,Soccer,6,False,True,True,4.66666666666667,6.08333333333333,m,28,7
+788,7,Basketball,8,False,False,True,4.33333333333333,4.91666666666667,f,26,7
+789,7,Track and Field,4,False,True,True,5.08333333333333,5.66666666666667,f,22,7
+790,7,Judo,5,False,True,False,4.83333333333333,5.08333333333333,m,20,7
+791,7,Track and Field,6,True,True,False,3.66666666666667,4.33333333333333,f,22,7
+792,6,Fitness Sport,4,False,True,True,5,4.58333333333333,m,24,7
+793,7,Track and Field,8,False,False,False,5.08333333333333,5.08333333333333,m,21,7
+794,7,Swimming,7,True,False,False,4.41666666666667,5.33333333333333,f,23,7
+795,7,Soccer,8,True,True,True,6.08333333333333,5.5,f,23,8
+797,7,Kickboxing,7,True,False,False,6,5.16666666666667,m,23,7
+798,7,Climbing,7,True,False,False,3.08333333333333,6.33333333333333,f,22,7
+802,7,Soccer,5,False,True,True,4.75,4,m,28,7
+803,7,Swimming,7,True,True,False,4.75,6.25,m,23,9
+805,7,Power Sport,7,True,True,True,4.66666666666667,5.33333333333333,m,22,7
+806,7,Basketball,8,True,False,False,5.25,5,m,20,7
+808,7,Hockey,4,False,False,False,4.83333333333333,4,m,18,7
+810,7,Swimming,7,True,False,False,4.75,5,m,24,7
+811,7,Handball,8,False,False,True,5.08333333333333,5.33333333333333,f,20,7
+815,7,Soccer,6,True,True,True,4.16666666666667,5.66666666666667,m,23,7
+816,7,Handball,6,False,False,True,5.08333333333333,4.16666666666667,f,20,7
+819,6,Soccer,4,False,False,False,4.75,4.83333333333333,m,25,8
+820,6,Taekwondo,4,False,True,False,4.58333333333333,4.75,f,19,7
+821,7,Gymnastics,6,False,True,False,4.25,4.25,f,29,7
+823,7,Dance,5,True,True,False,5.41666666666667,5,f,23,7
+825,7,Gymnastics,5,False,True,True,5.66666666666667,5.25,f,23,7
+826,6,Running,4,False,False,False,3.41666666666667,6.16666666666667,m,25,8
+827,7,Fitness Sport,7,True,False,False,4.5,5.75,m,25,7
+828,7,Volleyball,6,False,True,False,3.5,6.33333333333333,f,22,7
+829,7,Kickboxing,3,False,True,False,5.58333333333333,5.75,m,25,7
+830,7,Swimming,4,False,True,False,4.75,4.58333333333333,f,18,7
+833,7,Judo,8,False,True,False,4.91666666666667,4.41666666666667,m,21,7
+834,7,Soccer,5,False,False,True,5.25,5.41666666666667,f,19,7
+847,7,Soccer,6,False,True,True,5.66666666666667,5.5,m,24,7
+848,6,Karate,5,True,False,False,4.5,6.08333333333333,f,21,7
+849,6,Swimming,5,False,True,False,5.16666666666667,4.25,f,21,8
+850,6,Fitness Sport,6,True,True,False,4,5.16666666666667,m,27,7
+851,7,Handball,6,False,True,False,4.91666666666667,5.91666666666667,m,20,7
+852,7,Climbing,7,False,False,True,3.75,5.58333333333333,m,19,7
+856,7,Soccer,7,False,True,False,4.41666666666667,5.75,f,23,7
+858,7,Handball,8,False,True,True,4.5,5.16666666666667,f,22,3
+859,6,Basketball,4,True,True,True,3.16666666666667,5.41666666666667,m,29,8
+861,7,Gymnastics,4,False,False,True,5.08333333333333,5.41666666666667,f,21,7
+862,7,Soccer,4,False,False,True,4.5,5.33333333333333,m,25,7
+863,7,Basketball,6,True,True,False,5.75,4.08333333333333,f,20,7
+864,7,Soccer,8,False,False,False,5.66666666666667,4.08333333333333,m,20,7
+865,7,Dance,7,True,True,False,3.25,5.58333333333333,f,39,8
+871,7,Soccer,4,False,True,False,4.91666666666667,3.83333333333333,m,19,7
+873,7,Climbing,5,False,True,False,4.16666666666667,5.58333333333333,m,28,7
+876,7,Soccer,6,False,True,True,3.66666666666667,5.08333333333333,f,22,8
+877,7,Handball,4,False,True,False,4.83333333333333,6.08333333333333,f,19,7
+879,7,Dance,4,True,True,False,4.58333333333333,5.16666666666667,m,22,7
+880,7,Trampoline,4,True,True,False,3.66666666666667,4.25,m,26,7
+882,7,Volleyball,6,False,True,False,3.83333333333333,5.5,f,24,8
+883,6,Soccer,7,False,True,False,4.66666666666667,5.08333333333333,f,23,7
+884,7,Muay Thai,6,True,True,False,4.25,4.66666666666667,m,23,7
+885,7,Volleyball,4,False,True,False,4.33333333333333,4.66666666666667,f,20,7
+887,7,Fitness Sport,7,False,False,False,3.66666666666667,5.25,m,20,7
+892,7,Soccer,6,True,True,True,5.5,4.75,m,22,7
+893,7,Snowboarding,4,True,True,False,5.58333333333333,4.83333333333333,f,31,7
+894,7,Dance,2,False,True,True,5,4.75,f,23,8
+895,7,Handball,7,False,False,True,5.25,5.58333333333333,m,21,7
+898,7,Gymnastics,6,False,True,True,4.16666666666667,4.66666666666667,f,20,7
+902,7,Acrobatics,4,False,True,False,5,4.75,f,21,7
+904,7,Snowboarding,6,False,True,False,3.58333333333333,4.91666666666667,f,20,7
+905,6,Soccer,5,False,True,False,5.58333333333333,4.83333333333333,m,22,7
+906,7,Basketball,6,False,True,False,5.66666666666667,6.33333333333333,m,23,7
+907,7,Martial Arts Tricking,5,True,True,True,4.33333333333333,5.33333333333333,m,23,8
+911,7,Basketball,4,False,False,True,4.66666666666667,4.83333333333333,m,22,7
+912,1,Soccer,6,True,False,True,3.83333333333333,5.75,m,25,7
+914,7,Running,4,True,False,True,4.33333333333333,5.08333333333333,m,22,7
+918,7,Running,5,True,True,False,3.75,4.41666666666667,f,42,5
+924,7,Soccer,6,False,True,False,4.75,4,m,19,7
+925,6,Soccer,8,False,True,False,5.16666666666667,5.58333333333333,m,22,7
+926,5,Basketball,2,True,True,False,4.5,4.33333333333333,f,22,7
+927,6,Running,5,True,False,False,3.41666666666667,5.16666666666667,f,40,8
+950,7,Soccer,6,False,False,False,5.16666666666667,5.33333333333333,m,22,7
+960,7,Skiing,5,False,False,True,4.25,4.91666666666667,f,22,7
